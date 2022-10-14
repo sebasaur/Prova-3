@@ -53,7 +53,7 @@ DOMANDE:
   3) Scrivere la funzione DAX che mi permette di avere la colonna quarter nel seguente modo: Qrt 1, Qrt 2, Qrt 3, Qrt 4
     risposta: Quarter = FORMAT([Date],"\Qrt Q")
 
-  4)Ho cambiato il percorso del file del dataset, quando provo a modificare qualcosa nella query mi da un errore, elenca i 3 metodi per poter risolvere
+  4)Ho cambiato il percorso del file del dataset, quando provo a modificare qualcosa nella query mi da un errore, elenca i 3 metodi per poter   risolvere
   risposta: Editor avanzato nella query, Origine Dati nella query, Trasforma Dati-> Impostazione Origine nella home di Power BI
   
   5) Vorrei creare un bottone, che resetta i filtri applicati, che tipo di azione associo? 
